@@ -48,5 +48,5 @@ These items are not required for POC (proof of concept) but are a long term visi
 2. Be able to filter based on if logged in user created or is a reviewer
 
 3. Metrics page:
-    - # PRs assigned
-    - # assigned vs total open per repo
+   - number of PRs assigned
+   - number of assigned vs total open per repo
